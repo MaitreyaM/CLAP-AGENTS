@@ -236,7 +236,7 @@ asyncio.run(main())
 ```
 
 
-# # New in v0.3.0: Web3 & On-Chain Agent Capabilities
+## New in v0.3.0: Web3 & On-Chain Agent Capabilities
 CLAP now includes a powerful toolkit for building autonomous agents that can interact directly with EVM-compatible blockchains like Ethereum. Your agents can now hold assets, execute transactions, and interact with smart contracts, opening up a new world of possibilities in DeFi, DAOs, and on-chain automation.
 Setup
 To enable Web3 capabilities, install the web3 extra:
@@ -253,7 +253,7 @@ AGENT_PRIVATE_KEY="0xYourTestnetPrivateKeyHere"
 
 
 
-# # Core Web3 Tools
+## Core Web3 Tools
 The framework now includes a suite of pre-built, robust tools for on-chain interaction:
 
 get_erc20_balance: Checks the balance of any standard ERC-20 token in a wallet.
